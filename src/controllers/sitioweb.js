@@ -1,5 +1,5 @@
 const inicio = (req, res) => {
-    res.render('sitioweb/inicio');
+    res.render('inicio');
 }
 
 module.exports={
