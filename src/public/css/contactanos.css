@@ -9,17 +9,11 @@ a{
     color: #09322C;
 }
 
-.m-superior {
-    position: fixed;
-    height: 9%;
-
-    
-  }
 
 header{
-    display: flex;
-    height: 70%;
-    background-color: white;
+    display: fixed;
+    height: 7%;
+    background-color: rgb(250, 77, 77);
     justify-content: space-between;
     align-items: center;
     padding: 15px;
