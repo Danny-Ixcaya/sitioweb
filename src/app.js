@@ -40,6 +40,6 @@ app.use(express.urlencoded({extended: false}));
 
 
 //RUTAS
-app.use(require('./routes/index'));
+app.use(require('./routes'));
 
 module.exports = app;
