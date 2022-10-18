@@ -9,6 +9,13 @@ a{
     color: #09322C;
 }
 
+.m-superior {
+    position: fixed;
+    height: 9%;
+
+    
+  }
+
 header{
     display: flex;
     height: 70%;
