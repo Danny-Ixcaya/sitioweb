@@ -17,7 +17,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 //AJUSTES 
-app.set('port', process.env.PORT || 4000);
+app.set('port', process.env.PORT || 4100);
 
 app.set('views', path.join(__dirname, 'views'));
 
